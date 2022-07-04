@@ -1,0 +1,17 @@
+.logo {
+    max-width: 60px;
+}
+
+.logo path {
+    fill: #fff;
+
+}
+
+.metamask-logo {
+    max-width: 30px;
+}
+
+.avatar {
+    max-width: 30px;
+    border-radius: 10px;
+}
